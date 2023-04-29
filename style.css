@@ -1,0 +1,33 @@
+
+  .navbar{
+    color: white;
+  }
+  button {
+    cursor: pointer;
+  }
+  
+  form input {
+    display: block;
+    margin-bottom: 1rem;
+  }
+  
+  form button {
+    margin-top: 1rem;
+  }
+  
+   #maindiv{
+    /* height: 100vh; */
+    /* width: 100vw; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+#seconddiv{
+   margin-top: 10px;
+   width: 50%;
+   height: 50%;
+}   
+
+#authenticate{
+    margin-top: 15px;
+}
